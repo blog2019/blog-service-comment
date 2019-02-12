@@ -1,2 +1,11 @@
-# blog-service-comment
-This is a micro service base on Spring Boot, It provide function of comment
+# blog-service-blog
+
+Your can run the project by execute ``BlogServiceBlogApplication.class`` in the root directory. 
+
+This project contains component as below:
+
+## spring-boot-starter-data-redis
+
+## spring-boot-starter-data-jpa
+
+## spring-cloud-starter-netflix-eureka-client
